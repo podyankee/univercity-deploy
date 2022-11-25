@@ -31,7 +31,7 @@ if (strstr($_SERVER['SERVER_NAME'], 'localhost')) {
 	define( 'DB_NAME', ' host1851913' );
 	define( 'DB_USER', ' host1851913' );
 	define( 'DB_PASSWORD', 'GPRHZAp6JZ' );
-	define( 'DB_HOST', '127.0.0.1' );
+	define( 'DB_HOST', 'localhost' );
 }
 
 /** Database charset to use in creating database tables. */
