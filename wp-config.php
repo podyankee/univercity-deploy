@@ -28,9 +28,9 @@ if (strstr($_SERVER['SERVER_NAME'], 'localhost')) {
 	define( 'DB_PASSWORD', 'root' );
 	define( 'DB_HOST', 'localhost' );
 } else {
-	define( 'DB_NAME', 'db_a901bb_designe' );
-	define( 'DB_USER', 'a901bb_designe' );
-	define( 'DB_PASSWORD', 'uFh2LCXWB@uBXs9' );
+	define( 'DB_NAME', ' host1851913' );
+	define( 'DB_USER', ' host1851913' );
+	define( 'DB_PASSWORD', 'GPRHZAp6JZ' );
 	define( 'DB_HOST', 'localhost' );
 }
 
